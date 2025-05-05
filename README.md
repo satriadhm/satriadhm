@@ -9,7 +9,6 @@ I'm a **Software Engineer** with expertise in **backend**, **frontend**, **micro
 I love building scalable solutions and exploring innovative technologies to solve real-world problems.
 
 ### 📌 What I'm Up To  
-🔹 enhancing software capabilities at Formulatrix
 🔹 Exploring **Blockchain**, **Web3**, and **Generative AI** technologies  
 🔹 Contributing to **Empirical Software Engineering** research
 
