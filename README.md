@@ -49,12 +49,6 @@ I love building scalable solutions and exploring innovative technologies to solv
 
 ---
 
-## 🎓 Education
-- **Bachelor of Software Engineering** at Telkom University, Indonesia (June 2021 - 2025)
-  - Cumulative GPA: 3.93/4
-- **Indonesian International Student Mobility Awards** at Universidad de Granada, Spain (Aug - Dec 2024)
-  - International Marketing and Management
-
 ## 📌 Ongoing Projects  
 🚧 **TrustCrowd**  
 🔹 **Tech Stack:** _GraphQL, MongoDB_  
