@@ -5,7 +5,7 @@
 </p>
 
 ## 🚀 About Me  
-I'm a **Software Engineer** with expertise in **backend**, **frontend**, **microservices**, and **software architecture**. Currently working as a **Research and Development Software Engineer** at Formulatrix Indonesia.  
+I'm a **Software Engineer** with expertise in **backend**, **frontend**, **microservices**, and **software architecture**.
 I love building scalable solutions and exploring innovative technologies to solve real-world problems.
 
 ### 📌 What I'm Up To  
