@@ -4,7 +4,7 @@
 </p>
 
 ## About
-- Building [TrustCrowd©]([https://risetku.com](https://crowd-control-interface.vercel.app/)) 
+- Building [TrustCrowd©]([https://crowd-control-interface.vercel.app]) 
 - 🚀 Go & Typescript
 - 🏢 Java & C#
 - Contact me through glorioussatria@gmail.com
