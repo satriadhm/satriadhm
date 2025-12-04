@@ -4,7 +4,7 @@
 </p>
 
 ## About
-- Building [TrustCrowd©](https://crowd-control-interface.vercel.app) and [Dreambooth](https://dreamboothstudio.com/en)
+- Building [Dreambooth](https://dreamboothstudio.com/en)
 - 🚀 Go & Typescript
 - 🏢 Java & C#
 - Contact me through glorioussatria@gmail.com
