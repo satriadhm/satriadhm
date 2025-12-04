@@ -10,7 +10,6 @@
 - Contact me through glorioussatria@gmail.com
   
 ## Tutorials and Writing
-- [8 Steps Journey of Finding Myself](https://www.glorioussatria.my.id/blog/8-steps-journey-of-finding-myself-a-personal-journey-through-software-engineering)
 - [A Way to Define a Service Architecture](https://www.glorioussatria.my.id/blog/a-way-to-define-a-service-architecture)
 - [Processing Markdown Code Blocks for Web Display](http://glorioussatria.my.id/blog/processing-markdown-code-blocks-for-web-display)
 - [How to Insert Null in Go Sqlite3](https://www.glorioussatria.my.id/blog/how-to-insert-null-to-sqlite3-with-go)
