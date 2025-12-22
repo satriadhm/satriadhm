@@ -16,6 +16,6 @@
 - [Benchmarking the Usability of LINQ C# and Streams Java](https://www.glorioussatria.my.id/blog/benchmarking-the-usability-of-linq-c-and-streams-java)
 
 ## Publications
-- Tester Quality Control Mechanism for Crowdsourced Based User Acceptance Testing using M-X Algorithm (soon)
+- [Tester Quality Control Mechanism for Crowdsourced Based User Acceptance Testing using M-X Algorithm](https://ieeexplore.ieee.org/document/11290728/)
 
 
