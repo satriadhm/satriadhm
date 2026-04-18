@@ -5,8 +5,8 @@
 
 ## About
 - Building [Dreambooth](https://dreamboothstudio.com/en)
-- 🚀 Go & Typescript
-- 🏢 Java & C#
+- 🚀 Typescript
+- 🏢 Go & Java & C#
 - Contact me through glorioussatria@gmail.com
   
 ## Tutorials and Writing
